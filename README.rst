@@ -1,5 +1,6 @@
 ###
 HAT
 ###
-*H*ighlight *A*t *T*erminal
+Highlight At Terminal
+
 Highlighted cat and git diff
