@@ -7,7 +7,7 @@ long_description = open(os.path.join(here, 'README.rst')).read()
 
 setup(name='hat',
       version=version,
-      description='cat with highlighted with pygments',
+      description='highlighted cat with pygments',
       long_description=long_description,
       classifiers=[
         'Environment :: Console',
@@ -18,7 +18,7 @@ setup(name='hat',
         'Programming Language :: Python :: 2.7',
         'Topic :: Utilities'
       ],
-      keywords='test bdd nosetests spec unit',
+      keywords='highlight cat',
       author='Bernardo B. Marques',
       author_email='bernardo.fire@gmail.com',
       url='http://github.com/bernardofire/hat',
