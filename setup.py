@@ -31,6 +31,6 @@ setup(name='hat',
       ],
       entry_points="""
       [console_scripts]
-      hat = hat:main
+      hat = hat:hat
       """,
       )

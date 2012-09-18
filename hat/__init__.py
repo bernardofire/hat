@@ -1,3 +1,4 @@
 from hat import *
 
-main(sys.argv)
+def hat():
+    cat(sys.argv)
