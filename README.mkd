@@ -3,3 +3,4 @@ HAT
 Highlight At Terminal
 
 Highlighted cat
+![hat](https://raw.github.com/bernardofire/hat/master/hat.png)
